@@ -4,7 +4,7 @@
   "description": "A CLI app to get my info",
   "main": "bin/index.js",
   "bin": {
-    "rizzah":"bin/index.js"
+    "rizzah": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/getRicha/cli-demo/issues"
   },
-  "homepage": "https://github.com/getRicha/cli-demo#readme"
+  "homepage": "https://github.com/getRicha/cli-demo#readme",
+  "dependencies": {
+    "boxen": "5.1.2",
+    "chalk": "4.1.2"
+}
 }
