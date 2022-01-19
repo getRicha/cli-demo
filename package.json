@@ -1,6 +1,6 @@
 {
   "name": "rizzah",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A CLI app to get my info",
   "main": "bin/index.js",
   "bin": {
@@ -26,5 +26,5 @@
   "dependencies": {
     "boxen": "5.1.2",
     "chalk": "4.1.2"
-}
+  }
 }
